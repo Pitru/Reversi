@@ -16,7 +16,9 @@ After start two computer players will play game, BLACK player starts.
 ## Heuristics
 
 ### Coin parity heuristic
-`Coin Parity Heuristic Value = 100* (Max Player Coins –Min Player Coins) / (Max Player Coins + Min Player Coins)`
+```
+Coin Parity Heuristic Value = 100* (Max Player Coins –Min Player Coins) / (Max Player Coins + Min Player Coins)
+```
 
 ### Mobility heuristic
 ```
